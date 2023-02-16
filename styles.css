@@ -1,0 +1,84 @@
+body{
+    background: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* * {
+	border: 1px dashed red;
+	min-height: 10px;
+} */
+
+.ig-post{
+    background: white;
+	width: 280px;
+	height: 380px;
+	margin: auto;
+	margin-top: 50px;
+	
+}
+
+.header-post{
+	font-size: smaller;
+	display: flex;
+	position: relative;
+	margin-bottom: 5px;
+}
+
+.logo-html{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.username{
+	font-size: 8px;
+	margin-left: 5px;
+}
+
+.logo-menu{
+	margin-top: 10px;
+	position: absolute;
+	right: 10px;
+}
+
+.image img{
+	max-width:100%;
+	max-height:100%;
+}
+
+.icons{
+	display: flex;
+}
+
+.icons-left{
+	justify-content: space-around;
+	margin-left: 10px;
+}
+
+.icons-right{
+	justify-content: flex-end;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.likes{
+	text-align: left;
+	padding: 3px;
+	font-size: 10px;
+	margin-left: 10px;
+	
+}
+
+p{
+	margin: 0;
+	margin-top: 10px;
+}
+
+.description{
+	text-align: left;
+	margin: 0;
+	padding: 3px;
+	font-size: 10px;
+	margin-left: 10px;
+	margin-right: 8px;
+}
+
